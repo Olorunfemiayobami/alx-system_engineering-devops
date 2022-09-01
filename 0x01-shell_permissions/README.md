@@ -1,0 +1,1 @@
+a script explaining permissions
