@@ -1,2 +1,3 @@
-#!/bin/bash
-echo 128
+i#!/bin/bash
+echo $((TRUEKNOWLEDGE + 128))
+
